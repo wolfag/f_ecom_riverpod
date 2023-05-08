@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "9a5c743f71ddef0bef5c654ee94c24a7f0d9e6393bb8bbd9a1ec111b7fe6ad22"
+build_start_time: [1683457835, 948073863]
+build_end_time: [1683457835, 971788883]
+inputs:
+  "/Users/wolfag/Projects/flutter/f_ecom_riverpod/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1683457821, 865202903]
+  "/Users/wolfag/Projects/flutter/f_ecom_riverpod/macos/Runner/AppDelegate.swift": !private [1664987375, 0]
+  "/Users/wolfag/Projects/flutter/f_ecom_riverpod/macos/Runner/MainFlutterWindow.swift": !private [1664987375, 0]
